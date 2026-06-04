@@ -1,5 +1,11 @@
 # Midwest EpiView: Measles
 
+An interactive dashboard for visualizing measles vaccination coverage and historical measles case data across Minnesota.
+
+Midwest EpiView: Measles was developed by the [Midwest Analytics and Disease Modeling Center (MADMC)](https://www.sph.umn.edu/research/centers/midwest-analytics-and-disease-modeling/) at the University of Minnesota School of Public Health. It is built in **R** using the **Shiny** framework and integrates vaccination, geographic, and historical case data into a set of interactive maps and tables to support exploratory public health analysis and outreach.
+
+Although the dashboard was originally built with Minnesota-specific datasets, the framework can be adapted by other states or jurisdictions using equivalent local data sources.
+
 ## Table of Contents
 
 - [Features](#features)
@@ -13,11 +19,6 @@
 - [Contact](#contact)
 - [License](#license)
 
-An interactive dashboard for visualizing measles vaccination coverage and historical measles case data across Minnesota.
-
-Midwest EpiView: Measles was developed by the [Midwest Analytics and Disease Modeling Center (MADMC)](https://www.sph.umn.edu/research/centers/midwest-analytics-and-disease-modeling/) at the University of Minnesota School of Public Health. It is built in **R** using the **Shiny** framework and integrates vaccination, geographic, and historical case data into a set of interactive maps and tables to support exploratory public health analysis and outreach.
-
-Although the dashboard was originally built with Minnesota-specific datasets, the framework can be adapted by other states or jurisdictions using equivalent local data sources.
 
 ## Features
 
